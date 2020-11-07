@@ -14,8 +14,7 @@ phone record and its owner who is stored in the user file. Tasks;
 ## Phone Book
 - A detailed phone book will be created. (name, surname, phone number, address,
 description, e-mail) 
-
-     List records -Create a record  -Update a record -Delete a record 
+     *List records *Create a record  *Update a record *Delete a record 
 - Store data in the “phonebook.csv”
 - Fields on the window need to accept only needed format such as number fields accepts
 only numbers. The phone number needs formatted like (555) 555 55 55.
@@ -27,9 +26,16 @@ Expression) may help you)
 - Notes module has only one field.
 - Store data in the “notes.csv”
 - User may enter more than one note so the user needs below use cases.
+     
+     *List notes *Create a note *Update a note *Delete a note 
 
-     -List notes -Create a note -Update a note -Delete a note 
-
+## Personal Information
+- User needs to view and edit his/her profile. The profile page will have user information
+(name, surname, phone number, address, e-mail, password, photo)
+- User needs to change the password and other information from the profile screen.
+- Store photo in CSV file as base64 format.
+- CTRL – Z & CTRL – Y capability on user profile window.
+     *Each field changes need to manage via CTRL-Z to undo and CTRL-Y to redo.
 
 
 
