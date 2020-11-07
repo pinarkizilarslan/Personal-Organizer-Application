@@ -14,6 +14,7 @@ phone record and its owner who is stored in the user file. Tasks;
 ## Phone Book
 - A detailed phone book will be created. (name, surname, phone number, address,
 description, e-mail) 
+
      *List records *Create a record  *Update a record *Delete a record 
 - Store data in the “phonebook.csv”
 - Fields on the window need to accept only needed format such as number fields accepts
@@ -35,9 +36,28 @@ Expression) may help you)
 - User needs to change the password and other information from the profile screen.
 - Store photo in CSV file as base64 format.
 - CTRL – Z & CTRL – Y capability on user profile window.
+
      *Each field changes need to manage via CTRL-Z to undo and CTRL-Y to redo.
 
+## Salary Calculator
+According to BMO, a staff’s minimum salary should be calculated via some parameters
+- Create a screen to calculate the user’s minimum salary and hold this information as user
+information.
+- Read BMO rules carefully and hide fields if they are not needed otherwise show
+them.
+- User needs to enter/update these data.
+- On the profile screen, you need to show the calculated salary. The minimum salary will
+be calculated as %50 off for the part-time user.
 
+## Reminder
+- User need to manage (list, add, update, delete) reminders. There are two reminder types (meeting & task)
+- Each reminder has a date, time, summary and description fields.
+- The reminder will show summary value on active windows header and shake
+active windows along two seconds. 
+
+
+An administrator will be able to send a new password to users’ e-mail o Show a progress bar while e-mail sending. 
+Show a warning message to ask “really want to exit” on the close button(X) clicked
 
 ### Takım Üyeleri
 * [Pınar Kızılarslan](https://github.com/pinarkizilarslan)
