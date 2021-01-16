@@ -62,4 +62,4 @@ Show a warning message to ask “really want to exit” on the close button(X) c
 ### Takım Üyeleri
 * [Pınar Kızılarslan](https://github.com/pinarkizilarslan)
 * [Damla Dalgıç](https://github.com/damladlg)
-* Ayşe Kaya
+* [Ayşe Kaya](https://github.com/ayseekaya)
