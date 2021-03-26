@@ -59,7 +59,7 @@ active windows along two seconds.
 An administrator will be able to send a new password to users’ e-mail o Show a progress bar while e-mail sending. 
 Show a warning message to ask “really want to exit” on the close button(X) clicked
 
-### Takım Üyeleri
+### Team Members
 * [Pınar Kızılarslan](https://github.com/pinarkizilarslan)
 * [Damla Dalgıç](https://github.com/damladlg)
 * [Ayşe Kaya](https://github.com/ayseekaya)
